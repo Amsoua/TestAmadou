@@ -23,7 +23,7 @@ public class SplashScreen extends Canvas implements Runnable {
 	private Image img; // img for the splash
 	private String imageFilename = "/taxisplash.png";
 	private int backgroundColour = 0x0009AAF1; 
-	private String splashText = "TaxiCompta";
+	private String splashText = "MesTaxiCompta";
 	private boolean blank = false;
 
 	/**

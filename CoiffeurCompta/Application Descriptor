@@ -1,0 +1,8 @@
+MIDlet-Version: 1.1
+MIDlet-Vendor: SenMobile
+MIDlet-Jar-URL: CoiffeurCompta.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: CoiffeurCompta,ManHairDresser_icon.png,CoiffeurMIDlet
+MIDlet-Permissions: javax.microedition.io.Connector.sms,javax.wireless.messaging.sms.send
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: CoiffeurCompta 

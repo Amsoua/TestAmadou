@@ -1,0 +1,9 @@
+MIDlet-1: CoiffeurCompta,ManHairDresser_icon.png,CoiffeurMIDlet
+MIDlet-Jar-Size: 85494
+MIDlet-Jar-URL: CoiffeurCompta.jar
+MIDlet-Name: CoiffeurCompta
+MIDlet-Permissions: javax.microedition.io.Connector.sms,javax.wireless.messaging.sms.send
+MIDlet-Vendor: SenMobile
+MIDlet-Version: 1.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

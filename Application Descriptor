@@ -1,8 +1,0 @@
-MIDlet-1: TaxiCompta,icon.png,TaxiMIDlet
-MIDlet-Jar-URL: TaxiCompta-april2013.jar
-MIDlet-Name: TaxiCompta
-MIDlet-Permissions: javax.microedition.io.Connector.sms,javax.wireless.messaging.sms.send
-MIDlet-Vendor: SenMobile
-MIDlet-Version: 1.1
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.0
